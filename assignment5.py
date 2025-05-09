@@ -39,8 +39,6 @@ print(boat1)
 print(boat1.boatMove())
 
 
-    
-
 
 
 
